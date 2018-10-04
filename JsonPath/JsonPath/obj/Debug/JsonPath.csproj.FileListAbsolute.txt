@@ -1,0 +1,16 @@
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Debug\JsonPath.exe.config
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Debug\JsonPath.exe
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Debug\JsonPath.pdb
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Debug\JsonPath.csproj.CoreCompileInputs.cache
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Debug\JsonPath.exe
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Debug\JsonPath.pdb
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Newtonsoft.Json.dll
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Newtonsoft.Json.xml
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Debug\JsonPath.csproj.CopyComplete
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adion\source\repos\JsonPath\JsonPath\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

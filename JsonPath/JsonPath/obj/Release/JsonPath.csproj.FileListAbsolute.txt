@@ -1,0 +1,6 @@
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Release\JsonPath.exe.config
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Release\JsonPath.exe
+c:\users\adion\source\repos\JsonPath\JsonPath\bin\Release\JsonPath.pdb
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Release\JsonPath.csproj.CoreCompileInputs.cache
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Release\JsonPath.exe
+c:\users\adion\source\repos\JsonPath\JsonPath\obj\Release\JsonPath.pdb
